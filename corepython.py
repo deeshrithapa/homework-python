@@ -58,6 +58,8 @@
 # CI = Amount - principle
 # print("Compound interest is", CI)
 
-# 10. Write a program to check Armstrong Number.
+# 10. Write a program to check Armstrong Number
 
+word = 8*8.0
+print(type(word))
 
